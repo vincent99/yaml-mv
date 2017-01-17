@@ -5,13 +5,13 @@
   "main": "index.js",
   "bin": {
     "yaml-mv": "./index.js"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vincent99/yaml-mv.git"
   },
   "author": "Vincent Fiduccia <vincent@vtf.me>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/vincent99/yaml-mv/issues"
   },
