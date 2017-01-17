@@ -1,0 +1,23 @@
+{
+  "name": "yaml-mv",
+  "version": "0.0.1",
+  "description": "Rename a key in a yaml file",
+  "main": "index.js",
+  "bin": {
+    "yaml-mv": "./index.js"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent99/yaml-mv.git"
+  },
+  "author": "Vincent Fiduccia <vincent@vtf.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincent99/yaml-mv/issues"
+  },
+  "homepage": "https://github.com/vincent99/yaml-mv#readme",
+  "dependencies": {
+    "js-yaml": "^3.7.0",
+    "optimist": "^0.6.1"
+  }
+}
